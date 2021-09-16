@@ -1,0 +1,23 @@
+{
+  "name": "wodnevets.github.io",
+  "version": "1.0.0",
+  "main": "main.48b3db1d.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wodnevets/wodnevets.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wodnevets/wodnevets.github.io/issues"
+  },
+  "homepage": "https://github.com/wodnevets/wodnevets.github.io#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
