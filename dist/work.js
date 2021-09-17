@@ -184,12 +184,7 @@ function reloadCSS() {
 }
 
 module.exports = reloadCSS;
-},{"./bundle-url":"node_modules/parcel-bundler/src/builtins/bundle-url.js"}],"main.48b3db1d.css":[function(require,module,exports) {
-var reloadCSS = require('_css_loader');
-
-module.hot.dispose(reloadCSS);
-module.hot.accept(reloadCSS);
-},{"./hero-bg-img-who.d2508edf.svg":[["hero-bg-img-who.d2508edf.50daa97e.svg","hero-bg-img-who.d2508edf.svg"],"hero-bg-img-who.d2508edf.svg"],"./hero-bg-img-what.dd5ffab1.svg":[["hero-bg-img-what.dd5ffab1.f0409173.svg","hero-bg-img-what.dd5ffab1.svg"],"hero-bg-img-what.dd5ffab1.svg"],"./hero-bg-img-work.4b15c010.svg":[["hero-bg-img-work.4b15c010.50400e8e.svg","hero-bg-img-work.4b15c010.svg"],"hero-bg-img-work.4b15c010.svg"],"./case-study-1-hero-bg-img.2f1765a3.jpg":[["case-study-1-hero-bg-img.2f1765a3.02295321.jpg","case-study-1-hero-bg-img.2f1765a3.jpg"],"case-study-1-hero-bg-img.2f1765a3.jpg"],"./case-study-1-hero-bg-img-568.336f4730.jpg":[["case-study-1-hero-bg-img-568.336f4730.4e1133ef.jpg","case-study-1-hero-bg-img-568.336f4730.jpg"],"case-study-1-hero-bg-img-568.336f4730.jpg"],"./case-study-1-hero-bg-img-md.1d5c8390.jpg":[["case-study-1-hero-bg-img-md.1d5c8390.23c496ea.jpg","case-study-1-hero-bg-img-md.1d5c8390.jpg"],"case-study-1-hero-bg-img-md.1d5c8390.jpg"],"./case-study-1-hero-bg-img-lg.7e25c773.jpg":[["case-study-1-hero-bg-img-lg.7e25c773.e74272ae.jpg","case-study-1-hero-bg-img-lg.7e25c773.jpg"],"case-study-1-hero-bg-img-lg.7e25c773.jpg"],"./case-study-1-hero-bg-img-xl.e7820ac3.jpg":[["case-study-1-hero-bg-img-xl.e7820ac3.b4758c25.jpg","case-study-1-hero-bg-img-xl.e7820ac3.jpg"],"case-study-1-hero-bg-img-xl.e7820ac3.jpg"],"_css_loader":"node_modules/parcel-bundler/src/builtins/css-loader.js"}],"node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"./bundle-url":"node_modules/parcel-bundler/src/builtins/bundle-url.js"}],"node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -394,4 +389,4 @@ function hmrAcceptRun(bundle, id) {
   }
 }
 },{}]},{},["node_modules/parcel-bundler/src/builtins/hmr-runtime.js"], null)
-//# sourceMappingURL=/main.48b3db1d.458fbb7c.js.map
+//# sourceMappingURL=/work.js.map

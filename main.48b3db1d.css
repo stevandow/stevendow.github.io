@@ -226,6 +226,11 @@ h3 {
   background-color: var(--nav-bg);
 }
 
+/* Buttons */
+.btn {
+  text-decoration: none;
+}
+
 /* headings */
 .text-red {
   color: #E94949;
