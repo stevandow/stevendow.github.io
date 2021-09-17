@@ -143,6 +143,17 @@ p, a, ul {
   background: #E94949;
 }
 
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: underline;
+}
+ul {
+  margin: -15;
+}
+
 ul {
   padding-left: 1rem;
 }
@@ -201,6 +212,7 @@ h3 {
   padding: 0 0.5rem;
   margin-bottom: 0.6rem;
   color: var(--color-text);
+  text-decoration: none;
 }
 
 .nav-link:hover {
@@ -443,18 +455,6 @@ footer {
 
 footer p {
   margin-bottom: 0;
-}
-
-footer li {
-  list-style: none;
-}
-
-footer a {
-  text-decoration: underline;
-}
-
-footer ul {
-  margin: 0;
 }
 
 .footer-text {
